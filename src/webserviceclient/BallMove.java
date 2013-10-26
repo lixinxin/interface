@@ -1,13 +1,13 @@
 package webserviceclient;
 
-<<<<<<< HEAD
+
 public class BallMove {
     public static void main(String[] args){
     	System.out.println("BallMove");
 	
     }
 }
-=======
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.EventQueue;
@@ -79,4 +79,3 @@ public class BallMove extends JFrame {
 	
 }
 
->>>>>>> develop
